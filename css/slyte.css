@@ -343,7 +343,7 @@ body{
 }
 /*footer*/
 .footer{
-  background-color: #842d72;#
+  background-color: #842d72;
   height: 100%;
   padding-top: 50px;
   clip-path: polygon(0 15%, 100% 0%, 100% 100%, 0% 100%); 
@@ -587,6 +587,14 @@ hr{
     padding: 150px 15px 80px 15px;
     border-radius: 50px;
   }
+  .why-choose-us .why-choose-us-text .why-us .why-us-text h3{
+  font-size: 35px;
+  padding: 10px;
+}
+.why-choose-us .why-choose-us-text .why-us .why-us-text p{
+  font-size: 30px;
+  padding: 10px;
+}
   .why-choose-us .why-choose-us-text .why-us .why-us-icons {
     position: absolute;
     top: -130px;
@@ -856,6 +864,14 @@ hr{
     padding: 150px 15px 80px 15px;
     border-radius: 50px;
   }
+    .why-choose-us .why-choose-us-text .why-us .why-us-text h3{
+  font-size: 35px;
+  padding: 10px;
+}
+.why-choose-us .why-choose-us-text .why-us .why-us-text p{
+  font-size: 30px;
+  padding: 10px;
+}
   .why-choose-us .why-choose-us-text .why-us .why-us-icons {
     position: absolute;
     top: -130px;
